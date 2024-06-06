@@ -2,14 +2,14 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*png
 # C extensions
 *.so
 ckpts/
 result/
 vis/
 *jpg
-
+去光照测试集/
 # Distribution / packaging
 .Python
 build/
